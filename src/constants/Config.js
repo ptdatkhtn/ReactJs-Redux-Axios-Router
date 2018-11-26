@@ -1,0 +1,1 @@
+export const API_URL = 'http://5ba3a1a78da2f20014654c5a.mockapi.io/api'; //Mock API
